@@ -1,0 +1,846 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# André Koot <meneer@tken.net>, 2013-2014
+# kwillems <kwillems@zonnet.nl>, 2013-2014
+# Jorcee <mail@jordyc.nl>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ownCloud\n"
+"Report-Msgid-Bugs-To: translations@owncloud.org\n"
+"POT-Creation-Date: 2014-05-31 01:54-0400\n"
+"PO-Revision-Date: 2014-05-30 07:32+0000\n"
+"Last-Translator: André Koot <meneer@tken.net>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/owncloud/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ajax/share.php:88
+msgid "Expiration date is in the past."
+msgstr "De vervaldatum ligt in het verleden."
+
+#: ajax/share.php:120 ajax/share.php:162
+#, php-format
+msgid "Couldn't send mail to following users: %s "
+msgstr "Kon geen e-mail sturen aan de volgende gebruikers: %s"
+
+#: ajax/update.php:10
+msgid "Turned on maintenance mode"
+msgstr "Onderhoudsmodus ingeschakeld"
+
+#: ajax/update.php:13
+msgid "Turned off maintenance mode"
+msgstr "Onderhoudsmodus uitgeschakeld"
+
+#: ajax/update.php:16
+msgid "Updated database"
+msgstr "Database bijgewerkt"
+
+#: ajax/update.php:24
+#, php-format
+msgid "Disabled incompatible apps: %s"
+msgstr "Gedeactiveerde incompatibele apps: %s"
+
+#: avatar/controller.php:62
+msgid "No image or file provided"
+msgstr "Geen afbeelding of bestand opgegeven"
+
+#: avatar/controller.php:81
+msgid "Unknown filetype"
+msgstr "Onbekend bestandsformaat"
+
+#: avatar/controller.php:85
+msgid "Invalid image"
+msgstr "Ongeldige afbeelding"
+
+#: avatar/controller.php:115 avatar/controller.php:142
+msgid "No temporary profile picture available, try again"
+msgstr "Geen tijdelijke profielafbeelding beschikbaar. Probeer het opnieuw"
+
+#: avatar/controller.php:135
+msgid "No crop data provided"
+msgstr "Geen bijsnijdingsgegevens opgegeven"
+
+#: js/config.php:43
+msgid "Sunday"
+msgstr "zondag"
+
+#: js/config.php:44
+msgid "Monday"
+msgstr "maandag"
+
+#: js/config.php:45
+msgid "Tuesday"
+msgstr "dinsdag"
+
+#: js/config.php:46
+msgid "Wednesday"
+msgstr "woensdag"
+
+#: js/config.php:47
+msgid "Thursday"
+msgstr "donderdag"
+
+#: js/config.php:48
+msgid "Friday"
+msgstr "vrijdag"
+
+#: js/config.php:49
+msgid "Saturday"
+msgstr "zaterdag"
+
+#: js/config.php:54
+msgid "January"
+msgstr "januari"
+
+#: js/config.php:55
+msgid "February"
+msgstr "februari"
+
+#: js/config.php:56
+msgid "March"
+msgstr "maart"
+
+#: js/config.php:57
+msgid "April"
+msgstr "april"
+
+#: js/config.php:58
+msgid "May"
+msgstr "mei"
+
+#: js/config.php:59
+msgid "June"
+msgstr "juni"
+
+#: js/config.php:60
+msgid "July"
+msgstr "juli"
+
+#: js/config.php:61
+msgid "August"
+msgstr "augustus"
+
+#: js/config.php:62
+msgid "September"
+msgstr "september"
+
+#: js/config.php:63
+msgid "October"
+msgstr "oktober"
+
+#: js/config.php:64
+msgid "November"
+msgstr "november"
+
+#: js/config.php:65
+msgid "December"
+msgstr "december"
+
+#: js/js.js:496
+msgid "Settings"
+msgstr "Instellingen"
+
+#: js/js.js:596
+msgid "Saving..."
+msgstr "Opslaan"
+
+#: js/js.js:1220
+msgid "seconds ago"
+msgstr "seconden geleden"
+
+#: js/js.js:1221
+msgid "%n minute ago"
+msgid_plural "%n minutes ago"
+msgstr[0] ""
+msgstr[1] "%n minuten geleden"
+
+#: js/js.js:1222
+msgid "%n hour ago"
+msgid_plural "%n hours ago"
+msgstr[0] ""
+msgstr[1] "%n uur geleden"
+
+#: js/js.js:1223
+msgid "today"
+msgstr "vandaag"
+
+#: js/js.js:1224
+msgid "yesterday"
+msgstr "gisteren"
+
+#: js/js.js:1225
+msgid "%n day ago"
+msgid_plural "%n days ago"
+msgstr[0] ""
+msgstr[1] "%n dagen geleden"
+
+#: js/js.js:1226
+msgid "last month"
+msgstr "vorige maand"
+
+#: js/js.js:1227
+msgid "%n month ago"
+msgid_plural "%n months ago"
+msgstr[0] ""
+msgstr[1] "%n maanden geleden"
+
+#: js/js.js:1228
+msgid "last year"
+msgstr "vorig jaar"
+
+#: js/js.js:1229
+msgid "years ago"
+msgstr "jaar geleden"
+
+#: js/oc-dialogs.js:95 js/oc-dialogs.js:236
+msgid "Yes"
+msgstr "Ja"
+
+#: js/oc-dialogs.js:105 js/oc-dialogs.js:246
+msgid "No"
+msgstr "Nee"
+
+#: js/oc-dialogs.js:184
+msgid "Choose"
+msgstr "Kies"
+
+#: js/oc-dialogs.js:210
+msgid "Error loading file picker template: {error}"
+msgstr "Fout bij laden bestandenselecteur sjabloon: {error}"
+
+#: js/oc-dialogs.js:263
+msgid "Ok"
+msgstr "Ok"
+
+#: js/oc-dialogs.js:283
+msgid "Error loading message template: {error}"
+msgstr "Fout bij laden berichtensjabloon: {error}"
+
+#: js/oc-dialogs.js:411
+msgid "{count} file conflict"
+msgid_plural "{count} file conflicts"
+msgstr[0] "{count} bestandsconflict"
+msgstr[1] "{count} bestandsconflicten"
+
+#: js/oc-dialogs.js:425
+msgid "One file conflict"
+msgstr "Een bestandsconflict"
+
+#: js/oc-dialogs.js:431
+msgid "New Files"
+msgstr "Nieuwe bestanden"
+
+#: js/oc-dialogs.js:432
+msgid "Already existing files"
+msgstr "Al aanwezige bestanden"
+
+#: js/oc-dialogs.js:434
+msgid "Which files do you want to keep?"
+msgstr "Welke bestanden wilt u bewaren?"
+
+#: js/oc-dialogs.js:435
+msgid ""
+"If you select both versions, the copied file will have a number added to its"
+" name."
+msgstr "Als u beide versies selecteerde, zal het gekopieerde bestand een nummer aan de naam toegevoegd krijgen."
+
+#: js/oc-dialogs.js:443
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: js/oc-dialogs.js:453
+msgid "Continue"
+msgstr "Verder"
+
+#: js/oc-dialogs.js:500 js/oc-dialogs.js:513
+msgid "(all selected)"
+msgstr "(alles geselecteerd)"
+
+#: js/oc-dialogs.js:503 js/oc-dialogs.js:517
+msgid "({count} selected)"
+msgstr "({count} geselecteerd)"
+
+#: js/oc-dialogs.js:525
+msgid "Error loading file exists template"
+msgstr "Fout bij laden bestand bestaat al sjabloon"
+
+#: js/setup.js:84
+msgid "Very weak password"
+msgstr "Zeer zwak wachtwoord"
+
+#: js/setup.js:85
+msgid "Weak password"
+msgstr "Zwak wachtwoord"
+
+#: js/setup.js:86
+msgid "So-so password"
+msgstr "Matig wachtwoord"
+
+#: js/setup.js:87
+msgid "Good password"
+msgstr "Goed wachtwoord"
+
+#: js/setup.js:88
+msgid "Strong password"
+msgstr "Sterk wachtwoord"
+
+#: js/share.js:69 js/share.js:84 js/share.js:127
+msgid "Shared"
+msgstr "Gedeeld"
+
+#: js/share.js:130
+msgid "Share"
+msgstr "Delen"
+
+#: js/share.js:195 js/share.js:208 js/share.js:215 js/share.js:822
+#: templates/installation.php:10
+msgid "Error"
+msgstr "Fout"
+
+#: js/share.js:197 js/share.js:885
+msgid "Error while sharing"
+msgstr "Fout tijdens het delen"
+
+#: js/share.js:208
+msgid "Error while unsharing"
+msgstr "Fout tijdens het stoppen met delen"
+
+#: js/share.js:215
+msgid "Error while changing permissions"
+msgstr "Fout tijdens het veranderen van permissies"
+
+#: js/share.js:225
+msgid "Shared with you and the group {group} by {owner}"
+msgstr "Gedeeld met u en de groep {group} door {owner}"
+
+#: js/share.js:227
+msgid "Shared with you by {owner}"
+msgstr "Gedeeld met u door {owner}"
+
+#: js/share.js:251
+msgid "Share with user or group …"
+msgstr "Delen met gebruiker of groep ..."
+
+#: js/share.js:257
+msgid "Share link"
+msgstr "Deel link"
+
+#: js/share.js:263
+msgid ""
+"The public link will expire no later than {days} days after it is created"
+msgstr "De openbare link vervalt niet eerder dan {days} dagen na het aanmaken"
+
+#: js/share.js:265
+msgid "By default the public link will expire after {days} days"
+msgstr "Standaard vervalt een openbare link na {days} dagen"
+
+#: js/share.js:270
+msgid "Password protect"
+msgstr "Wachtwoord beveiligd"
+
+#: js/share.js:272
+msgid "Choose a password for the public link"
+msgstr "Kies een wachtwoord voor de openbare link"
+
+#: js/share.js:278
+msgid "Allow Public Upload"
+msgstr "Sta publieke uploads toe"
+
+#: js/share.js:282
+msgid "Email link to person"
+msgstr "E-mail link naar persoon"
+
+#: js/share.js:283
+msgid "Send"
+msgstr "Versturen"
+
+#: js/share.js:288
+msgid "Set expiration date"
+msgstr "Stel vervaldatum in"
+
+#: js/share.js:289
+msgid "Expiration date"
+msgstr "Vervaldatum"
+
+#: js/share.js:326
+msgid "Share via email:"
+msgstr "Deel via e-mail:"
+
+#: js/share.js:329
+msgid "No people found"
+msgstr "Geen mensen gevonden"
+
+#: js/share.js:377 js/share.js:438
+msgid "group"
+msgstr "groep"
+
+#: js/share.js:410
+msgid "Resharing is not allowed"
+msgstr "Verder delen is niet toegestaan"
+
+#: js/share.js:454
+msgid "Shared in {item} with {user}"
+msgstr "Gedeeld in {item} met {user}"
+
+#: js/share.js:476
+msgid "Unshare"
+msgstr "Stop met delen"
+
+#: js/share.js:484
+msgid "notify by email"
+msgstr "melden per e-mail"
+
+#: js/share.js:487
+msgid "can edit"
+msgstr "kan wijzigen"
+
+#: js/share.js:489
+msgid "access control"
+msgstr "toegangscontrole"
+
+#: js/share.js:492
+msgid "create"
+msgstr "creëer"
+
+#: js/share.js:495
+msgid "update"
+msgstr "bijwerken"
+
+#: js/share.js:498
+msgid "delete"
+msgstr "verwijderen"
+
+#: js/share.js:501
+msgid "share"
+msgstr "deel"
+
+#: js/share.js:803
+msgid "Password protected"
+msgstr "Wachtwoord beveiligd"
+
+#: js/share.js:822
+msgid "Error unsetting expiration date"
+msgstr "Fout tijdens het verwijderen van de vervaldatum"
+
+#: js/share.js:843
+msgid "Error setting expiration date"
+msgstr "Fout tijdens het instellen van de vervaldatum"
+
+#: js/share.js:872
+msgid "Sending ..."
+msgstr "Versturen ..."
+
+#: js/share.js:883
+msgid "Email sent"
+msgstr "E-mail verzonden"
+
+#: js/share.js:907
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: js/tags.js:4
+msgid "The object type is not specified."
+msgstr "Het object type is niet gespecificeerd."
+
+#: js/tags.js:13
+msgid "Enter new"
+msgstr "Opgeven nieuw"
+
+#: js/tags.js:27
+msgid "Delete"
+msgstr "Verwijder"
+
+#: js/tags.js:31
+msgid "Add"
+msgstr "Toevoegen"
+
+#: js/tags.js:39
+msgid "Edit tags"
+msgstr "Bewerken tags"
+
+#: js/tags.js:57
+msgid "Error loading dialog template: {error}"
+msgstr "Fout bij laden dialoog sjabloon: {error}"
+
+#: js/tags.js:264
+msgid "No tags selected for deletion."
+msgstr "Geen tags geselecteerd voor verwijdering."
+
+#: js/update.js:30
+msgid "Updating {productName} to version {version}, this may take a while."
+msgstr "Bijwerken {productName} naar versie {version}, dit kan even duren."
+
+#: js/update.js:43
+msgid "Please reload the page."
+msgstr "Herlaad deze pagina."
+
+#: js/update.js:52
+msgid "The update was unsuccessful."
+msgstr "De update is niet geslaagd."
+
+#: js/update.js:61
+msgid "The update was successful. Redirecting you to ownCloud now."
+msgstr "De update is geslaagd. U wordt teruggeleid naar uw eigen ownCloud."
+
+#: lostpassword/controller.php:70
+#, php-format
+msgid "%s password reset"
+msgstr "%s wachtwoord reset"
+
+#: lostpassword/controller.php:72
+msgid ""
+"A problem has occurred whilst sending the email, please contact your "
+"administrator."
+msgstr "Er ontstond een probleem bij het versturen van het e-mailbericht, neem contact op met uw beheerder."
+
+#: lostpassword/templates/email.php:2
+msgid "Use the following link to reset your password: {link}"
+msgstr "Gebruik de volgende link om uw wachtwoord te resetten: {link}"
+
+#: lostpassword/templates/lostpassword.php:7
+msgid ""
+"The link to reset your password has been sent to your email.<br>If you do "
+"not receive it within a reasonable amount of time, check your spam/junk "
+"folders.<br>If it is not there ask your local administrator ."
+msgstr "De link voor het resetten van uw wachtwoord is verzonden naar uw e-mailadres.<br>Als u dat bericht niet snel ontvangen hebt, controleer dan uw spammap.<br>Als het daar ook niet is, vraag dan uw beheerder om hulp."
+
+#: lostpassword/templates/lostpassword.php:15
+msgid "Request failed!<br>Did you make sure your email/username was right?"
+msgstr "Aanvraag mislukt!<br>Weet u zeker dat uw gebruikersnaam en/of wachtwoord goed waren?"
+
+#: lostpassword/templates/lostpassword.php:18
+msgid "You will receive a link to reset your password via Email."
+msgstr "U ontvangt een link om uw wachtwoord opnieuw in te stellen via e-mail."
+
+#: lostpassword/templates/lostpassword.php:21 templates/installation.php:53
+#: templates/login.php:32
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: lostpassword/templates/lostpassword.php:25
+msgid ""
+"Your files are encrypted. If you haven't enabled the recovery key, there "
+"will be no way to get your data back after your password is reset. If you "
+"are not sure what to do, please contact your administrator before you "
+"continue. Do you really want to continue?"
+msgstr "Uw bestanden zijn versleuteld. Als u geen recoverykey hebt ingeschakeld is er geen manier om uw data terug te krijgen na het resetten van uw wachtwoord.\nAls u niet weet wat u moet doen, neem dan alstublieft contact op met uw systeembeheerder voordat u doorgaat.\nWil u echt doorgaan?"
+
+#: lostpassword/templates/lostpassword.php:27
+msgid "Yes, I really want to reset my password now"
+msgstr "Ja, ik wil mijn wachtwoord nu echt resetten"
+
+#: lostpassword/templates/lostpassword.php:30
+msgid "Reset"
+msgstr "Reset"
+
+#: lostpassword/templates/resetpassword.php:4
+msgid "Your password was reset"
+msgstr "Uw wachtwoord is gewijzigd"
+
+#: lostpassword/templates/resetpassword.php:5
+msgid "To login page"
+msgstr "Naar de login-pagina"
+
+#: lostpassword/templates/resetpassword.php:8
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+#: lostpassword/templates/resetpassword.php:11
+msgid "Reset password"
+msgstr "Reset wachtwoord"
+
+#: setup/controller.php:140
+#, php-format
+msgid ""
+"Mac OS X is not supported and %s will not work properly on this platform. "
+"Use it at your own risk! "
+msgstr "Mac OSX wordt niet ondersteund en %s zal niet goed werken op dit platform. Gebruik het op uw eigen risico!"
+
+#: setup/controller.php:144
+msgid ""
+"For the best results, please consider using a GNU/Linux server instead."
+msgstr "Voor het beste resultaat adviseren wij het gebruik van een GNU/Linux server."
+
+#: strings.php:5
+msgid "Personal"
+msgstr "Persoonlijk"
+
+#: strings.php:6
+msgid "Users"
+msgstr "Gebruikers"
+
+#: strings.php:7 templates/layout.user.php:116
+msgid "Apps"
+msgstr "Apps"
+
+#: strings.php:8
+msgid "Admin"
+msgstr "Beheerder"
+
+#: strings.php:9
+msgid "Help"
+msgstr "Help"
+
+#: tags/controller.php:22
+msgid "Error loading tags"
+msgstr "Fout bij laden tags"
+
+#: tags/controller.php:48
+msgid "Tag already exists"
+msgstr "Tag bestaat al"
+
+#: tags/controller.php:64
+msgid "Error deleting tag(s)"
+msgstr "Fout bij verwijderen tag(s)"
+
+#: tags/controller.php:75
+msgid "Error tagging"
+msgstr "Fout bij taggen"
+
+#: tags/controller.php:86
+msgid "Error untagging"
+msgstr "Fout bij ont-taggen"
+
+#: tags/controller.php:97
+msgid "Error favoriting"
+msgstr "Fout bij favoriet maken"
+
+#: tags/controller.php:108
+msgid "Error unfavoriting"
+msgstr "Fout bij verwijderen favorietstatus"
+
+#: templates/403.php:12
+msgid "Access forbidden"
+msgstr "Toegang verboden"
+
+#: templates/404.php:15
+msgid "Cloud not found"
+msgstr "Cloud niet gevonden"
+
+#: templates/altmail.php:2
+#, php-format
+msgid ""
+"Hey there,\n"
+"\n"
+"just letting you know that %s shared %s with you.\n"
+"View it: %s\n"
+"\n"
+msgstr "Hallo,\n\n%s deelt %s met u.\nBekijk het: %s\n\n"
+
+#: templates/altmail.php:4 templates/mail.php:17
+#, php-format
+msgid "The share will expire on %s."
+msgstr "De share vervalt op %s."
+
+#: templates/altmail.php:7 templates/mail.php:20
+msgid "Cheers!"
+msgstr "Proficiat!"
+
+#: templates/installation.php:25 templates/installation.php:32
+#: templates/installation.php:39
+msgid "Security Warning"
+msgstr "Beveiligingswaarschuwing"
+
+#: templates/installation.php:26
+msgid "Your PHP version is vulnerable to the NULL Byte attack (CVE-2006-7243)"
+msgstr "Uw PHP-versie is kwetsbaar voor de NULL byte aanval (CVE-2006-7243)"
+
+#: templates/installation.php:27
+#, php-format
+msgid "Please update your PHP installation to use %s securely."
+msgstr "Werk uw PHP installatie bij om %s veilig te kunnen gebruiken."
+
+#: templates/installation.php:33
+msgid ""
+"No secure random number generator is available, please enable the PHP "
+"OpenSSL extension."
+msgstr "Er kon geen willekeurig nummer worden gegenereerd. Zet de PHP OpenSSL-extentie aan."
+
+#: templates/installation.php:34
+msgid ""
+"Without a secure random number generator an attacker may be able to predict "
+"password reset tokens and take over your account."
+msgstr "Zonder random nummer generator is het mogelijk voor een aanvaller om de resettokens van wachtwoorden te voorspellen. Dit kan leiden tot het inbreken op uw account."
+
+#: templates/installation.php:40
+msgid ""
+"Your data directory and files are probably accessible from the internet "
+"because the .htaccess file does not work."
+msgstr "Uw gegevensdirectory en bestanden zijn vermoedelijk bereikbaar vanaf het internet omdat het .htaccess-bestand niet functioneert."
+
+#: templates/installation.php:42
+#, php-format
+msgid ""
+"For information how to properly configure your server, please see the <a "
+"href=\"%s\" target=\"_blank\">documentation</a>."
+msgstr "Bekijk de <a href=\"%s\" target=\"_blank\">documentatie</a> voor Informatie over het correct configureren van uw server."
+
+#: templates/installation.php:48
+msgid "Create an <strong>admin account</strong>"
+msgstr "Maak een <strong>beheerdersaccount</strong> aan"
+
+#: templates/installation.php:60 templates/login.php:40
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: templates/installation.php:70
+msgid "Storage & database"
+msgstr "Opslag & database"
+
+#: templates/installation.php:77
+msgid "Data folder"
+msgstr "Gegevensmap"
+
+#: templates/installation.php:90
+msgid "Configure the database"
+msgstr "Configureer de database"
+
+#: templates/installation.php:94
+msgid "will be used"
+msgstr "zal gebruikt worden"
+
+#: templates/installation.php:109
+msgid "Database user"
+msgstr "Gebruiker database"
+
+#: templates/installation.php:118
+msgid "Database password"
+msgstr "Wachtwoord database"
+
+#: templates/installation.php:123
+msgid "Database name"
+msgstr "Naam database"
+
+#: templates/installation.php:132
+msgid "Database tablespace"
+msgstr "Database tablespace"
+
+#: templates/installation.php:140
+msgid "Database host"
+msgstr "Databaseserver"
+
+#: templates/installation.php:150
+msgid "Finish setup"
+msgstr "Installatie afronden"
+
+#: templates/installation.php:150
+msgid "Finishing …"
+msgstr "Afronden ..."
+
+#: templates/layout.user.php:40
+msgid ""
+"This application requires JavaScript to be enabled for correct operation.  "
+"Please <a href=\"http://enable-javascript.com/\" target=\"_blank\">enable "
+"JavaScript</a> and re-load this interface."
+msgstr "Deze applicatie heeft JavaScript nodig om correct te functioneren.  <a href=\"http://enable-javascript.com/\" target=\"_blank\">Activeer JavaScript</a> en herlaad deze interface."
+
+#: templates/layout.user.php:44
+#, php-format
+msgid "%s is available. Get more information on how to update."
+msgstr "%s is beschikbaar. Verkrijg meer informatie over het bijwerken."
+
+#: templates/layout.user.php:74 templates/singleuser.user.php:8
+msgid "Log out"
+msgstr "Afmelden"
+
+#: templates/login.php:9
+msgid "Automatic logon rejected!"
+msgstr "Automatische aanmelding geweigerd!"
+
+#: templates/login.php:10
+msgid ""
+"If you did not change your password recently, your account may be "
+"compromised!"
+msgstr "Als u uw wachtwoord niet onlangs heeft aangepast, kan uw account overgenomen zijn!"
+
+#: templates/login.php:12
+msgid "Please change your password to secure your account again."
+msgstr "Wijzig uw wachtwoord zodat uw account weer beveiligd is."
+
+#: templates/login.php:17
+msgid "Server side authentication failed!"
+msgstr "Authenticatie bij de server mislukte!"
+
+#: templates/login.php:18
+msgid "Please contact your administrator."
+msgstr "Neem contact op met uw systeembeheerder."
+
+#: templates/login.php:46
+msgid "Lost your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: templates/login.php:51
+msgid "remember"
+msgstr "onthoud gegevens"
+
+#: templates/login.php:54
+msgid "Log in"
+msgstr "Meld u aan"
+
+#: templates/login.php:60
+msgid "Alternative Logins"
+msgstr "Alternatieve inlogs"
+
+#: templates/mail.php:15
+#, php-format
+msgid ""
+"Hey there,<br><br>just letting you know that %s shared <strong>%s</strong> "
+"with you.<br><a href=\"%s\">View it!</a><br><br>"
+msgstr "Hallo,<br><br>%s deelt <strong>%s</strong> met u.<br><a href=\"%s\">Bekijk het!</a><br><br>"
+
+#: templates/singleuser.user.php:3
+msgid "This ownCloud instance is currently in single user mode."
+msgstr "Deze ownCloud werkt momenteel in enkele gebruiker modus."
+
+#: templates/singleuser.user.php:4
+msgid "This means only administrators can use the instance."
+msgstr "Dat betekent dat alleen beheerders deze installatie kunnen gebruiken."
+
+#: templates/singleuser.user.php:5 templates/update.user.php:5
+msgid ""
+"Contact your system administrator if this message persists or appeared "
+"unexpectedly."
+msgstr "Beem contact op met uw systeembeheerder als deze melding aanhoudt of plotseling verscheen."
+
+#: templates/singleuser.user.php:7 templates/update.user.php:6
+msgid "Thank you for your patience."
+msgstr "Bedankt voor uw geduld."
+
+#: templates/update.admin.php:3
+#, php-format
+msgid "%s will be updated to version %s."
+msgstr "%s wordt bijgewerkt naar versie %s."
+
+#: templates/update.admin.php:7
+msgid "The following apps will be disabled:"
+msgstr "De volgende apps worden gedeactiveerd:"
+
+#: templates/update.admin.php:17
+#, php-format
+msgid "The theme %s has been disabled."
+msgstr "Het thema %s is gedeactiveerd."
+
+#: templates/update.admin.php:21
+msgid ""
+"Please make sure that the database, the config folder and the data folder "
+"have been backed up before proceeding."
+msgstr "Let erop dat de database, de config map en de data map zijn gebackupped voordat u verder gaat."
+
+#: templates/update.admin.php:23
+msgid "Start update"
+msgstr "Begin de update"
+
+#: templates/update.user.php:3
+msgid ""
+"This ownCloud instance is currently being updated, which may take a while."
+msgstr "Deze ownCloud dienst wordt nu bijgewerkt, dat kan even duren."
+
+#: templates/update.user.php:4
+msgid "Please reload this page after a short time to continue using ownCloud."
+msgstr "Laad deze pagina straks opnieuw om verder te gaan met ownCloud."
